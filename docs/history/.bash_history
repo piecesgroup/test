@@ -305,3 +305,5 @@ ls -a
 ls -a -l
 history
 exit
+history
+exit
